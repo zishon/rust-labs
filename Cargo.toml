@@ -5,6 +5,7 @@ authors = ["zhixiong.zhu <zhixiong.zhu@qq.com>"]
 edition = "2018"
 description = "rust training lesson"
 license = "MIT"
+homepage = "https://github.com/zishon/rust-labs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
