@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let s = "有明确的议题，会前要确定议题内容并发送到参会成员";
+    println!("{} {}", &s[0..3], s.len());
 }
